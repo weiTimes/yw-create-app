@@ -24,7 +24,7 @@ yarn run start
 
 启动后可以在浏览器地址栏输入`http://localhost:8082/`访问页面，以下是预览效果图：
 
-![项目预览](https://tva1.sinaimg.cn/large/0081Kckwly1gm07c117yzg31ao0t6b2h.gif)
+![项目预览](https://tva1.sinaimg.cn/large/0081Kckwly1gm07vgj7pej31gr0u0npe.jpg)
 
 **生产环境**
 
